@@ -1,30 +1,20 @@
 {
-  "name": "generator-keystone",
+  "name": "generator-jg-keystone",
   "version": "0.3.11",
-  "description": "A KeystoneJS Project Generator for Yeoman",
+  "description": "JG-Keystone a modified KeystoneJS Project Generator for Yeoman",
   "keywords": [
     "yeoman-generator",
-    "keystonejs",
-    "keystone",
-    "express",
-    "cms",
-    "mongoose",
-    "mongodb",
-    "mongo",
-    "website",
-    "site",
-    "blog"
   ],
   "homepage": "https://github.com/keystonejs/generator-keystone",
   "bugs": "https://github.com/keystonejs/generator-keystone/issues",
   "author": {
-    "name": "Jed Watson",
-    "url": "https://github.com/JedWatson"
+    "name": "James Roeder",
+    "url": "https://github.com/JGRoeder"
   },
   "main": "app/index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/keystonejs/generator-keystone.git"
+    "url": "git://github.com/keystonejs/generator-jg-keystone.git"
   },
   "scripts": {
     "test": "mocha"
